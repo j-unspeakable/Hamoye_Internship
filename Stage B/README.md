@@ -1,4 +1,4 @@
-Analysis of a daaset using Simple linear regression, Multiple linear regression, measuring regression performance and penalization methods.
+Analysis of a dataset using Simple linear regression, Multiple linear regression, Measuring regression performance and Penalization methods.
 
 Dataset Description
 https://archive.ics.uci.edu/ml/machine-learning-databases/00374/
